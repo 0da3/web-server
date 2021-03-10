@@ -1,6 +1,6 @@
 ### Folder layout 
 ```
-project-file
+project-folder
 ├── docker-compose.yml
 └── web
     ├── index.html
